@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quest365 – Daily Challenges & Personal Growth</title>
+  <meta name="description" content="Quest365 is a daily challenge and personal growth app designed to build consistency, momentum, and self-discipline." />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background: #0b0b0c;
+      color: #f5f5f5;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .card {
+      max-width: 640px;
+      padding: 32px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.12);
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 32px;
+      font-weight: 900;
+    }
+    p {
+      line-height: 1.6;
+      opacity: 0.9;
+    }
+    a {
+      color: #d6c17a;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .links {
+      margin-top: 24px;
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .footer {
+      margin-top: 32px;
+      font-size: 13px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Quest365</h1>
+
+    <p>
+      Quest365 is a daily challenge and personal growth app designed to help users
+      build consistency, momentum, and long-term discipline through small,
+      meaningful actions.
+    </p>
+
+    <p>
+      The app combines daily challenges, scratch-style goals, progress tracking,
+      and personal bucket lists to create a focused, distraction-free experience.
+    </p>
+
+    <div class="links">
+      <a href="https://play.google.com/store/apps/details?id=com.ejosie.quest365">Google Play</a>
+      <a href="https://Maestrx-AV8D.github.io/quest365/privacy">Privacy Policy</a>
+      <a href="mailto:kejolcompany@gmail.com">Support</a>
+    </div>
+
+    <div class="footer">
+      © 2025 Quest365. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
